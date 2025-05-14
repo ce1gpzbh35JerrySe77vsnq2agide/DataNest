@@ -4,3 +4,4 @@ SetupGuide
 DataProcessingFeatures
 RequiredLibraries
 CodeSamples
+ConfigurationDetails
