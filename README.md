@@ -5,3 +5,4 @@ DataProcessingFeatures
 RequiredLibraries
 CodeSamples
 ConfigurationDetails
+ContributionInstructions
