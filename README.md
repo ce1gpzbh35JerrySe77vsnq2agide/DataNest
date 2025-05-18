@@ -6,3 +6,4 @@ RequiredLibraries
 CodeSamples
 ConfigurationDetails
 ContributionInstructions
+ErrorResolution
