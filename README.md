@@ -8,3 +8,4 @@ ConfigurationDetails
 ContributionInstructions
 ErrorResolution
 LicenseInfo
+DataScienceFAQ
