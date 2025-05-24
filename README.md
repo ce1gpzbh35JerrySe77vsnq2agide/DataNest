@@ -9,3 +9,4 @@ ContributionInstructions
 ErrorResolution
 LicenseInfo
 DataScienceFAQ
+VersionLog
