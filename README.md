@@ -12,3 +12,4 @@ DataScienceFAQ
 VersionLog
 TestingFramework
 ModelPerformance
+CommunityResources
